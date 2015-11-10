@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5266
+
+Adds basic syntax highlighting for the courier maildrop filter language. A filetype plugin to auto-enable syntax highlighting is also included.
+
+Grammar based on the official reference doc: http://www.courier-mta.org/maildropfilter.html
+
+Github project: https://github.com/sirtaj/vim-maildrop
+
+Please report any issues, suggestions or patches via the github project.
+Note that the version here on vim.org may lag a bit behind the dev version on github.
